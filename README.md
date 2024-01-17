@@ -1,7 +1,9 @@
 University projects
 
 Three Web projects 
+
 First project was web page about Architecture. HTML, CSS, JavaScript are used
+
 Second project is basic PHP project with MySQL database. Programming school. 3 user types: Admin, Manager and Student.
 
 Third project is schoolship Managment System. 3 user types:

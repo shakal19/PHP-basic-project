@@ -1,7 +1,12 @@
 University projects
 
-Basic Web is a basic PHP managment project about programming school
-first-project-main is my first university project that is made by using HTML, CSS, JavaScript
-Advanced project is PHP School managment system.
-Three levels:
-Admin, Manager and Student.
+Three Web projects 
+First project was web page about Architecture. HTML, CSS, JavaScript are used
+Second project is basic PHP project with MySQL database. Programming school. 3 user types: Admin, Manager and Student.
+
+Third project is schoolship Managment System. 3 user types:
+Admin is most priviledged user.
+He can add, delete or change informations about managers and students.
+Manager also can change data about students.
+Students can change their personal info and pay schoolship.
+
